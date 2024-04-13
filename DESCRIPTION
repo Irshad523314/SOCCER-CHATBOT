@@ -1,4 +1,4 @@
-Tis project offers a foundational implementation of a conversational bot focused on discussing soccer-related
+This project offers a foundational implementation of a conversational bot focused on discussing soccer-related
  topics. By leveraging libraries such as NLTK for natural language processing and scikit-learn for text vectorization and similarity 
 calculations, 
 
